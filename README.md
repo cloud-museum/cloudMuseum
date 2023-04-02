@@ -1,4 +1,8 @@
-#☁️🏛️ cloud.museum - A Static Site Generator Coded 100% by AI
+# ☁️🏛️ cloud.museum - A Static Site Generator Coded 100% by AI
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcloud-museum%2FcloudMuseum&build-command=node%20museum.js&output-directory=deploy)
+
+
 
 # About Cloud.museum 🌐
 
