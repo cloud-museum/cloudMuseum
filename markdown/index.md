@@ -2,15 +2,17 @@
 title: Cloud.Museum
 Date: 2023-04-02
 ---
-
 ![Cloud.Museum](/public/cover.png)
 
-Welcome to **cloud.museum**! This is the world's first static site generator, coded entirely by AI (ChatGPT) in both JavaScript and Swift. 🤖
+Welcome to **cloud.museum**! 🎉 This is the world's first static site generator, coded entirely by AI (ChatGPT) in both JavaScript and Swift. 🤖
 
 It's simple, lightweight, and incredibly intelligent – artificially intelligent! 🧠
 
-## JavaScript Version
+## JavaScript Version 🟨
 
+The easiest way to check the code and deploy is with [Github Repository with 1-click deploy on Vercel](https://github.com/cloud-museum/cloudMuseum) 🚀
+
+If you prefer a manual process:
 To generate HTML files using the JavaScript version, follow these steps:
 
 1. Create the following directories: `markdown`, `deploy`, and `templates`.
@@ -19,7 +21,7 @@ To generate HTML files using the JavaScript version, follow these steps:
 4. Run `node cloud.museum.js`.
 5. Your HTML files will be generated in the `deploy` directory.
 
-## Swift Version
+## Swift Version 🍎
 
 To generate HTML files using the Swift version, follow these steps:
 
@@ -34,12 +36,10 @@ It's that easy! Happy generating! 🚀
 
 Don't forget to customize your site using our HTML templates with relevant tags in the `Templates` folder.
 
-## Code
+## Code 📦
 
-[NodeJS Source Code](/source-code-nodejs/)
-[Swift Source Code](/source-code-swift-version/)
+[Github Repository with 1-click deploy on Vercel](https://github.com/cloud-museum/cloudMuseum) (recommended) 🚀
+[NodeJS Source Code](/source-code-nodejs/) 🟨
+[Swift Source Code](/source-code-swift-version/) 🍎
 
 Enjoy using **cloud.museum** and take your static site to the next level! 🌟
-
-
-

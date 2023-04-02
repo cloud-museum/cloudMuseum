@@ -1,5 +1,5 @@
 ---
-title: ChatGPT Ipsum
+Title: ChatGPT Ipsum
 Date: 2023-03-24
 ---
 
