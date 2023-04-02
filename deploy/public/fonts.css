@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'GT Maru Mega Mini Glow';
+	src: url('GT-Maru-Mega-Mini-Glow.woff2') format('woff2'),
+		url('GT-Maru-Mega-Mini-Glow.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GT Maru';
+	src: url('GT-Maru-Mono-Regular.woff2') format('woff2'),
+		url('GT-Maru-Mono-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
